@@ -76,19 +76,19 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 
-## 🎥 Mock Video Introduction
+## Mock Video Introduction
 ▶️ [Watch My Introduction Video](https://drive.google.com/file/d/1gpNJrT-IS1YwPpEPXYQ1FR4oLmFmpqO3/view?usp=drive_link)  
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 - Short-term: Secure an internship or junior developer role to apply academic knowledge in real-world projects  
 - Medium-term: Grow into a full-stack developer with strong expertise in both front-end and back-end technologies  
 - Long-term: Lead innovative projects that improve user experiences and contribute to ethical, impactful technology solutions  
 
 ---
 
-## 🌐 Interests
+## Interests
 - Project management & IT governance  
 - Ethical reasoning in technology  
 - Usability & accessibility in system design  
