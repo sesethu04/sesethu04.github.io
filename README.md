@@ -45,9 +45,10 @@ Motivated and detail-oriented IT student with a strong foundation in programming
  
 ---
 
-## CV (Portfolio Version)
+## CV 
 
-📥 [Download My CV (PDF)](./Sesethu_Nciti_CV.pdf)  
+📥 [View My CV](https://github.com/Sesethu04/My-CV-Repo/blob/main/Sesethu_Nciti_CV.pdf)
+ 
 
 ### Contact
 - Location: 10 Dorset, Woodstock, 7925  
