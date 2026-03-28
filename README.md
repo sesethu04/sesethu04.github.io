@@ -1,8 +1,8 @@
 # Hi, I'm Sesethu Nciti  
 
-Final-year Diploma in ICT: Application Development student at Cape Peninsula University of Technology  
-Passionate about building user-focused technology solutions, with strong skills in Java, web development, and database management  
-Eager to contribute to innovative projects and grow as a developer in dynamic teams  
+Final-year Diploma in ICT: Application Development student at Cape Peninsula University of Technology.  
+Passionate about building user-focused technology solutions, with strong skills in Java, web development, and database management.  
+Eager to contribute to innovative projects and grow as a developer in dynamic teams. 
 
 ---
 
@@ -83,9 +83,9 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 ---
 
 ## Career Goals
-- Short-term: Secure an internship or junior developer role to apply academic knowledge in real-world projects  
-- Medium-term: Grow into a full-stack developer with strong expertise in both front-end and back-end technologies  
-- Long-term: Lead innovative projects that improve user experiences and contribute to ethical, impactful technology solutions  
+- Short-term: Secure an internship or junior developer role to apply academic knowledge in real-world projects.  
+- Medium-term: Grow into a full-stack developer with strong expertise in both front-end and back-end technologies.  
+- Long-term: Lead innovative projects that improve user experiences and contribute to ethical, impactful technology solutions.  
 
 ---
 
