@@ -47,7 +47,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ## CV 
 
-📥 [View My CV](https://github.com/Sesethu04/My-CV-Repo/blob/main/Sesethu_Nciti_CV.pdf)
+📥 [View My CV](https://github.com/wil-it-2026/cv-submission-sesethu04/blob/main/S.NCITI.pdf)
  
 
 ### Contact
