@@ -57,7 +57,7 @@ Contact: 073 273 4638
 
 ## 🎥 Video Introduction
 <video width="600" controls>
-  <source src="https://github.com/sesethu04/My-CV-Repo/raw/main/my_intro_video.mp4" type="video/mp4">
+  <source src="mock video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
