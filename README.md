@@ -4,7 +4,7 @@
 **Location:** 10 Dorset, Woodstock, 7925  
 **Contact Number:** 078 686 7925  
 **Email:** 231118384@mycput.ac.za  
-**GitHub:** Sesethu04  
+**GitHub:** https://github.com/sesethu04  
 
 ---
 
